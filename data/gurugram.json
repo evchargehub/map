@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EV Plugin"
+      },
+      "geometry": {
+        "coordinates": [
+          77.08561200157277,
+          28.508145259092082
+		    ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kazam EV"
+      },
+      "geometry": {
+        "coordinates": [
+          77.01427707901648 ,
+          28.450964204112665
+		    ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statiq"
+      },
+      "geometry": {
+        "coordinates": [
+          77.08515825534127,
+          28.481275593130206
+		    ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charge Zone"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.08148125942522,
+          28.464083569920362
+		    ],
+        "type": "Point"
+      },
+      "id": 3
+    }
+	]
+}

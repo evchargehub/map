@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AARGO EV"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.29521063351093,
+          28.2882008872497
+		    ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kazam EV"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.3334734372918,
+          28.420719094072826
+		    ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EV Plugin"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.29758502991557,
+          28.389741322485506
+		    ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charge City"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.32268665991089,
+          28.395550049949748
+		    ],
+        "type": "Point"
+      },
+      "id": 4
+    }
+	]
+}

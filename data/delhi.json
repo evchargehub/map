@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EESL"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.223586, 28.633677
+		    ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kazam EV"
+      },
+      "geometry": {
+        "coordinates": [
+          77.13244501472661,
+          28.6339716444786
+		    ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statiq"
+      },
+      "geometry": {
+        "coordinates": [
+          77.23715279975868,
+          28.594903283650567
+		    ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ather Grid"
+      },
+      "geometry": {
+        "coordinates": [ 
+          77.2222735349209,
+		      28.65061818429266
+		    ],
+        "type": "Point"
+      },
+      "id": 3
+    }
+	]
+}
